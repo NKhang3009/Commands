@@ -16,6 +16,7 @@
 - Sau đó ```cd``` vào file bot của bạn và nhập ```npm start``` là được
 
 ## Video: [CÁCH TREO BOT 24/7 BẰNG HOSTING FREE | SHARE FILE PHIÊN BẢN HOSTING FREE 2025](https://www.youtube.com/watch?v=QfHTNhqFEmM)
+### Link Host mình sử dụng trong video: [HMV-Hosting](https://www.hmvhostings.com)
 ### Thông tin ở mục startup
 - Lưu ý: Docker Image để 20 trở lên
 #### Git Repo Address
