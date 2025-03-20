@@ -19,13 +19,22 @@
 ### Link Host mình sử dụng trong video: [HMV-Hosting](https://dash.hmvhostings.com/servers)
 ## Các bước tạo một máy chủ (server)
 - Bước 1 ấn Create Server
+
 ![buoc1](img/b1.jpg)
+
 - Bước 2 cấu hình như hình bên dưới
+
 ![buoc2](img/b2.jpg)
+
 - Bước 3 ấn Create server
+
 ![buoc3](img/b3.jpg)
+
 - Bước 4 ấn Manage
+
 ![buoc4](img/b4.jpg)
+
+
 ## Nó sẽ đưa bạn đến trang chủ như trong video, tuy nhiên bạn cần đăng nhập và sau đó nó sẽ đưa bạn vào trong mục quản lí server
 ### Thông tin ở mục startup
 - Lưu ý: Docker Image để 20 trở lên
