@@ -15,7 +15,7 @@
 - ```proot-distro login ubuntu```
 - Sau đó ```cd``` vào file bot của bạn và nhập ```npm start``` là được
 
-## Video: [CÁCH TREO BOT 24/7 BẰNG HOSTING FREE | SHARE FILE PHIÊN BẢN HOSTING FREE 2025]()
+## Video: [CÁCH TREO BOT 24/7 BẰNG HOSTING FREE | SHARE FILE PHIÊN BẢN HOSTING FREE 2025](https://www.youtube.com/watch?v=QfHTNhqFEmM)
 ### Thông tin ở mục startup
 - Lưu ý: Docker Image để 20 trở lên
 #### Git Repo Address
