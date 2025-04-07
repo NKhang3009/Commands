@@ -7,6 +7,8 @@
   ```
 ### sau khi đã vào root@localhost#:~# 
 - ```
+  pkg i git
+  pkg i npm
   apt update
   apt upgrade -y
   apt-get install -y git curl sudo
