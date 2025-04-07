@@ -1,7 +1,5 @@
-# Commands
-### Tất cả các lệnh mình để ở đây
-## Video: [CÁCH CHẠY BOT MESSENGER TRÊN TERMUX MỚI NHẤT 2025](https://www.youtube.com/watch?v=v5hi6KSfqn0)
-### Dán cái này lúc mới vào Termux (lưu ý phải cấp quyền truy cập file cho Termux nhé)
+LỆNH SETUP TERMUX
+### Dán cái này lúc mới vào Termux (lưu ý phải cấp quyền truy cập file cho Termux)
 - ```
   apt update && apt upgrade -y && apt install proot-distro -y && proot-distro install ubuntu && proot-distro login ubuntu
   ```
@@ -16,33 +14,21 @@
   sudo apt-get install -y nodejs
   ```
 ### Đối với lần chạy bot tiếp theo
-- ```proot-distro login ubuntu```
-- Sau đó ```cd``` vào file bot của bạn và nhập ```npm start``` là được
-- thay ad và appstate.json ```nano + tên tệp```
-## Video: [CÁCH TREO BOT 24/7 BẰNG HOSTING FREE | SHARE FILE PHIÊN BẢN HOSTING FREE 2025](https://www.youtube.com/watch?v=QfHTNhqFEmM)
-### Link Host mình sử dụng trong video: [HMV-Hosting](https://dash.hmvhostings.com/servers)
-## Các bước tạo một máy chủ (server)
-- Bước 1 ấn Create Server
+```
+proot-distro login ubuntu
+```
+- Sau đó
+  ```
+  cd
+  ```
 
-![buoc1](img/b1.jpg)
+   vào file bot của bạn và nhập
+  ```
+  npm start
+  ```
+ là được
+thay ad và appstate.json
+```
+nano + tên tệp
+```
 
-- Bước 2 cấu hình như hình bên dưới
-
-![buoc2](img/b2.jpg)
-
-- Bước 3 ấn Create server
-
-![buoc3](img/b3.jpg)
-
-- Bước 4 ấn Manage
-
-![buoc4](img/b4.jpg)
-
-
-## Nó sẽ đưa bạn đến trang chủ như trong video, tuy nhiên bạn cần đăng nhập và sau đó nó sẽ đưa bạn vào trong mục quản lí server
-### Thông tin ở mục startup
-- Lưu ý: Docker Image để 20 trở lên
-#### Git Repo Address
-- ```https://github.com/LunarKrystal/Lunar-Krystal```
-#### Install Branch
-- ```hosting```
