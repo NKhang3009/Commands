@@ -18,7 +18,7 @@
 ### Đối với lần chạy bot tiếp theo
 - ```proot-distro login ubuntu```
 - Sau đó ```cd``` vào file bot của bạn và nhập ```npm start``` là được
-
+- thay ad và appstate.json ```nano + tên tệp```
 ## Video: [CÁCH TREO BOT 24/7 BẰNG HOSTING FREE | SHARE FILE PHIÊN BẢN HOSTING FREE 2025](https://www.youtube.com/watch?v=QfHTNhqFEmM)
 ### Link Host mình sử dụng trong video: [HMV-Hosting](https://dash.hmvhostings.com/servers)
 ## Các bước tạo một máy chủ (server)
